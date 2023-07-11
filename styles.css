@@ -1,0 +1,108 @@
+body {
+    background: #1F2937;
+    position: absolute;
+    }
+    h2 {
+    color: #FFFFFF;
+    position: absolute;
+    height: 80px;
+    margin-left: 52px;
+    margin-top: 115px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    width: 354px;
+    }
+    span {  
+    color: #4ADF86;
+    }
+    p {
+     position: absolute;
+    width: 372px;
+    height: 28px;
+    margin-left: 52px;
+    margin-top: 205px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #D5D4D8;
+    }
+    button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 17px 9px 15px;
+    gap: 12px;
+    position: absolute;
+    width: 191px;
+    height: 42px;
+    margin-left: 52px;
+    margin-top: 284px;
+    background: #10B981;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    hr {
+    position: absolute;
+    width: 446px;
+    height: 0px;
+    margin-left: 52px;
+    margin-top: 361px;
+    border: 1px solid #2F3E53;
+    }
+    
+    div {
+      display: flex;
+      justify-content: space-between;
+    }
+    
+    #first-el {
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    margin-left: 52px;
+    margin-top: 396px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    justify-content: center;
+    text-align: center;
+    color: #55F991;
+    }
+    
+    #second-el {
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    margin-left: 287px;
+    margin-top: 396px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    justify-content: center;
+    text-align: center;
+    color: #55F991;
+    }
